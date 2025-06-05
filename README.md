@@ -1,5 +1,7 @@
 # GENIA – A Graph-Based Emergent Narrative Intelligence Architecture for Synthetic Cognition
 
+![image](imgs/mermaid.png "flowchart")
+
 **Author:** Miguel Araújo Julio  
 **Institution:** IBMR – Instituto Brasileiro de Medicina e Reabilitação, Rio de Janeiro, Brazil  
 **Email:** julioaraujo.guel@gmail.com  
