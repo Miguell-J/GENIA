@@ -1,0 +1,6 @@
+jax
+haiku
+numpy
+matplotlib
+pandas
+networkx
