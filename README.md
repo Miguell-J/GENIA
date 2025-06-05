@@ -121,12 +121,12 @@ If you use GENIA in your research, please cite the original preprint (TechRxiv l
 
 ```bibtex
 @article{julio2025genia,
-  title={GENIA: A Graph-Based Emergent Narrative Intelligence Architecture for Synthetic Cognition},
-  author={Julio, Miguel Araújo},
-  year={2025},
-  archivePrefix={TechRxiv},
-  eprint={<preprint_id>},
-  url={https://github.com/Miguell-J/GENIA}
+  author  = {Miguel Araújo Julio},
+  title   = {GENIA: A Graph-based Emergent Narrative Intelligence Architecture for Synthetic Cognition},
+  journal = {TechRxiv},
+  year    = {2025},
+  note    = {DOI: Pending approval},
+  url     = {https://github.com/Miguell-J/GENIA}
 }
 ```
 
