@@ -90,7 +90,7 @@ GENIA/
 
 📄 **Title:** GENIA: A Graph-Based Emergent Narrative Intelligence Architecture for Synthetic Cognition
 📌 **Preprint:** [TechRxiv Submission Link (coming soon)](https://www.techrxiv.org/)
-📁 **PDF:** [`/paper/GENIA_paper.pdf`](./paper/GENIA_paper.pdf)
+📁 **PDF:** [`/paper/GENIA_paper.pdf`](./paper/GENIA.pdf)
 
 ---
 
