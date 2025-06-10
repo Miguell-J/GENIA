@@ -125,7 +125,7 @@ If you use GENIA in your research, please cite the original preprint (TechRxiv l
   title   = {GENIA: A Graph-based Emergent Narrative Intelligence Architecture for Synthetic Cognition},
   journal = {TechRxiv},
   year    = {2025},
-  note    = {DOI: Pending approval},
+  note    = {DOI: 10.36227},
   url     = {https://github.com/Miguell-J/GENIA}
 }
 ```
