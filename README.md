@@ -27,7 +27,7 @@ This architecture models cognition as an emergent process from five core compone
 
 ## 🧬 Key Concepts
 
-- **Essence (`E`)** – Innate emotional and cognitive predispositions modeled as a point on a Riemannian manifold.
+- **Essence (`E`)** – Innate emotional and cognitive predispositions modeled as a set of vectors.
 - **Memory (`M(t)`)** – A dynamic affective graph structure with decaying and reinforced nodes.
 - **Experience (`X(t)`)** – Integration of essence, memory, and incoming stimuli via a nonlinear function.
 - **World Model (`W(t)`)** – Bayesian generative model built from memory and internal predictions.
